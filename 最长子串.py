@@ -16,4 +16,4 @@ def longestsubstring(s):
 	return maxlen
 
 if __name__=="__main__":
-	print longestsubstring("pwwdee")
+	print longestsubstring("pwwdwe")
